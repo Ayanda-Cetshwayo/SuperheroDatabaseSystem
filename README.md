@@ -1,4 +1,4 @@
-One Kick Heroes Academy - Superhero Database System
+Welcome to One Kick Heroes Academy - Superhero Database System
 
 Project Overview
 Advanced Windows Forms application for managing superhero records at One Kick Heroes Academy. Features automatic rank calculation, real-time analytics, and comprehensive data management.
