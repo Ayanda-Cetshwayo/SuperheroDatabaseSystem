@@ -1,6 +1,6 @@
 # One Kick Heroes Academy - Superhero Database System
 
-# Welcome to One Kick Heroes Academy - Superhero Database System
+# Welcome to One Kick Heroes Academy
 
 This is a professional Windows Forms application created for One Kick Heroes Academy to manage and organise superhero trainee records. The system was built to replace an outdated paper-based examination recording system that caused delays in processing trainee assessments and rank assignments.
 
